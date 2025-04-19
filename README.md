@@ -9,8 +9,8 @@
 
 ## 🛠️ Featured Tools
 
-[![CyberProbe](https://img.shields.io/badge/Tool-CyberProbe-blue)](https://github.com/VirajRecon/CyberProbe)
-[![WinAudit10](https://img.shields.io/badge/Script-WinAudit10-green)](https://github.com/VirajRecon/Audit-Enum-Scripts)
+[![CyberProbe](https://img.shields.io/badge/Tool-VProbe-blue)](https://github.com/VirajRecon/VProbe)
+[![WinAudit10](https://img.shields.io/badge/Audit_Enum-green)](https://github.com/VirajRecon/Audit-Enum-Scripts)
 
 ---
 
