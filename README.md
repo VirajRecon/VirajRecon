@@ -43,7 +43,7 @@
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [linkedin.com/in/virajmota](https://www.linkedin.com/in/viraj-mota/)
+- LinkedIn: [linkedin.com/in/viraj-mota](https://www.linkedin.com/in/viraj-mota/)
 - GitHub: [github.com/VirajRecon](https://github.com/VirajRecon)
 
 ---
